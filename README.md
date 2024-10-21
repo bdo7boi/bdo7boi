@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bdo7boi
-- 👀 I’m interested mainly in cyber security as well as the gaming industry and programming.
-- 🌱 I’m currently studying for a bachelors of computer science through the accelerated online program at National University.
+- 👀 I'm an aspiring Data Analyst trying my hand at making SQL projects for experience, but also because its fun! The big project I want to eventually finish is my remake of BDODAE. For those that aren't Black Desert Online players, BDODAE was a site that
+-  allowed you to simulate crafting while factoring in market prices, items you have in stock already, mastery levels, etc. to show you what your possible profit would be and what costs you would take up. 
+- 🌱 I’m currently working on a bachelor's degree in Information Systems at National University while studying for certs. 
 - 📫 You can reach me at my linkedin profile:
 https://www.linkedin.com/in/brandon-alanes-7434991b5/
 
