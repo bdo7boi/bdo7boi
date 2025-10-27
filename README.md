@@ -3,7 +3,7 @@
 -  has been a great help in paying for my bachelor's degree in Information Systems. I currently hold the CompTIA Data+ and Cloud+
 -  certifications, and am currently studying to take the Microsoft Data Analyst Associate(PL-300) certification exam while doing
 -  analyst projects in my free time. I have some substantial hands on experience working with SQL and Python from my personal projects
--  as well as some light experience working with GCP for my capstone project for my BSIS.
+- as well as some light experience working with GCP for my capstone project for my BSIS.
 -   
 -  You can reach me at my linkedin profile:
 https://www.linkedin.com/in/brandon-alanes-7434991b5/
