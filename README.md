@@ -2,13 +2,13 @@
 
 # Hello, I’m Brandon Alanes
 
-**Aspiring Data Analyst | U.S. Army Reserve | Information Systems Major**
+**Data Analyst | U.S. Army Reserve | Information Systems Major**
 
-I’m a data analyst in training with a passion for turning data into actionable insights.
-I’m currently serving in the **U.S. Army Reserves**, where I’ve developed strong leadership and analytical skills.
-I’m pursuing my **bachelor’s degree in Information Systems** and hold the **CompTIA Data+** and **CompTIA Cloud+** certifications.
-
-I’m also studying for the **Microsoft Power BI Data Analyst (PL-300)** certification while building real-world projects that showcase data cleaning, analysis, and visualization using **Python**, **SQL**, and **Tableau**.
+I’m a data analyst skilled in Python, SQL, and cloud-based analytics who enjoys transforming
+complex data into clear, actionable insights. My background as a U.S. Army Reserve Sergeant 
+and Amazon associate has strengthened my communication, leadership, and collaboration 
+skills—allowing me to bridge the gap between technical analysis and business understanding. 
+I’m passionate about using data to drive smarter decisions and operational efficiency.
 
  My portfolio includes:
 
